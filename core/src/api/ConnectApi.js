@@ -25,6 +25,6 @@ const useCollectData= (url) => {
 
     },[]);
     return [dataState]
-}
+};
 
 export default useCollectData
